@@ -11383,6 +11383,11 @@ react@16.13.1:
     object-assign "^4.1.1"
     prop-types "^15.6.2"
 
+reactjs-popup@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/reactjs-popup/-/reactjs-popup-2.0.4.tgz#53f585a2b19fb730b127a166ffffa2672e144fa1"
+  integrity sha512-G5jTXL2JkClKAYAdqedf+K9QvbNsFWvdbrXW1/vWiyanuCU/d7DtQzQux+uKOz2HeNVRsFQHvs7abs0Z7VLAhg==
+
 read-pkg-up@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/read-pkg-up/-/read-pkg-up-2.0.0.tgz#6b72a8048984e0c41e79510fd5e9fa99b3b549be"
@@ -11677,15 +11682,6 @@ replace-ext@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/replace-ext/-/replace-ext-1.0.1.tgz#2d6d996d04a15855d967443631dd5f77825b016a"
   integrity sha512-yD5BHCe7quCgBph4rMQ+0KkIRKwWCrHDOX1p1Gp6HwjPM5kVoCdKGNhN7ydqqsX6lJEnQDKZ/tFMiEdQ1dvPEw==
-
-replace-in-file@6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/replace-in-file/-/replace-in-file-6.1.0.tgz#9f9ddd7bb70d6ad231d2ad692e1b646e73d06647"
-  integrity sha512-URzjyF3nucvejuY13HFd7O+Q6tFJRLKGHLYVvSh+LiZj3gFXzSYGnIkQflnJJulCAI2/RTZaZkpOtdVdW0EhQA==
-  dependencies:
-    chalk "^4.0.0"
-    glob "^7.1.6"
-    yargs "^15.3.1"
 
 request-promise-core@1.1.4:
   version "1.1.4"
@@ -14521,7 +14517,7 @@ yargs@^13.3.2:
     y18n "^4.0.0"
     yargs-parser "^13.1.2"
 
-yargs@^15.3.1, yargs@^15.4.1:
+yargs@^15.4.1:
   version "15.4.1"
   resolved "https://registry.yarnpkg.com/yargs/-/yargs-15.4.1.tgz#0d87a16de01aee9d8bec2bfbf74f67851730f4f8"
   integrity sha512-aePbxDmcYW++PaqBsJ+HYUFwCdv4LVvdnhBy78E57PIor8/OVvhMrADFFEDh8DHDFRv/O9i3lPhsENjO7QX0+A==
